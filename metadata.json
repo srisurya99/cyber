@@ -1,0 +1,6 @@
+{
+  "name": "ThreatLens",
+  "description": "AI-Powered Citizen Cyber Safety & Digital Incident Response Platform. See the Threat. Know the Risk. Take Action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
